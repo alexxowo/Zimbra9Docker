@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-core-jar
+Binary: zimbra-common-core-jar
+Architecture: amd64
+Version: 9.0.0.1590407096-1.u18
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-core-jar - Zimbra Core Jars
+Changes:
+ zimbra-common-core-jar (9.0.0.1590407096-1.u18) stable; urgency=medium
+ .
+   * Release - 9.0.0.1590407096
+Checksums-Sha1:
+ 98e141e968d71d5dfbd0924ce2ebcbe4701a3571 5354 zimbra-common-core-jar_9.0.0.1590407096-1.u18_amd64.buildinfo
+ 105a0b99dbb5fb4a2884289817e32a986cec46b7 13907676 zimbra-common-core-jar_9.0.0.1590407096-1.u18_amd64.deb
+Checksums-Sha256:
+ fc9f074b47be403c0681980ed5c4e64267c9bc7d9dfbdce48db70e6a0dee6109 5354 zimbra-common-core-jar_9.0.0.1590407096-1.u18_amd64.buildinfo
+ 973c4414301ff2664d8c939b2d16c550eff0078189e5eddbe473035a4cd5afea 13907676 zimbra-common-core-jar_9.0.0.1590407096-1.u18_amd64.deb
+Files:
+ 96ac2c1c6535fab7fec2e0fc089680d0 5354 mail optional zimbra-common-core-jar_9.0.0.1590407096-1.u18_amd64.buildinfo
+ b1dfa543529ccf93eb2f0f2868b866d2 13907676 mail optional zimbra-common-core-jar_9.0.0.1590407096-1.u18_amd64.deb

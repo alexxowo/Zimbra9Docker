@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-timezone-data
+Binary: zimbra-timezone-data
+Architecture: amd64
+Version: 3.0.0.1587051191-1.u18
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-timezone-data - Zimbra Timezone Data
+Changes:
+ zimbra-timezone-data (3.0.0.1587051191-1.u18) stable; urgency=medium
+ .
+   * Release - 3.0.0.1587051191
+Checksums-Sha1:
+ 5f736f5a36fea5a4d5bb03b8bbcafff947255205 5335 zimbra-timezone-data_3.0.0.1587051191-1.u18_amd64.buildinfo
+ bf820b7b66ddeb6fbb19ba4af5d6b8db52dbbe89 48272 zimbra-timezone-data_3.0.0.1587051191-1.u18_amd64.deb
+Checksums-Sha256:
+ 9fbd69464c3982cb4eae6b1cc5ef2fb8d8b0d438d6495f72242f9ab897f156d0 5335 zimbra-timezone-data_3.0.0.1587051191-1.u18_amd64.buildinfo
+ 0993e26d699019dbed746ac6d1f0eec4bed4d2d60dddfc028113174234740ec6 48272 zimbra-timezone-data_3.0.0.1587051191-1.u18_amd64.deb
+Files:
+ 50f73ef8900eb0c85142ca9a4052abab 5335 mail optional zimbra-timezone-data_3.0.0.1587051191-1.u18_amd64.buildinfo
+ 7588793695cebf0c7ed3f136065e8ae2 48272 mail optional zimbra-timezone-data_3.0.0.1587051191-1.u18_amd64.deb

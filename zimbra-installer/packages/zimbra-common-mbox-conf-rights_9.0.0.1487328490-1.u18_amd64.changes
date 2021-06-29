@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-conf-rights
+Binary: zimbra-common-mbox-conf-rights
+Architecture: amd64
+Version: 9.0.0.1487328490-1.u18
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-conf-rights - Zimbra Core Mailbox Rights Configuration
+Changes:
+ zimbra-common-mbox-conf-rights (9.0.0.1487328490-1.u18) stable; urgency=medium
+ .
+   * Release - 9.0.0.1487328490
+Checksums-Sha1:
+ 57cfd3bde5538e8eb987c1dfe070324efc572cb9 5385 zimbra-common-mbox-conf-rights_9.0.0.1487328490-1.u18_amd64.buildinfo
+ cc097911eab569dd3fd6349b7997f8d8dee96b72 20292 zimbra-common-mbox-conf-rights_9.0.0.1487328490-1.u18_amd64.deb
+Checksums-Sha256:
+ f092765594703fbb4782cef7cd6c3444c3fd91359e4cbab99cf0c81a11266d80 5385 zimbra-common-mbox-conf-rights_9.0.0.1487328490-1.u18_amd64.buildinfo
+ e811b231dda0a69c3bdc5bc5b72909d985c4d9aafe03428a3fcef8908abc9e6d 20292 zimbra-common-mbox-conf-rights_9.0.0.1487328490-1.u18_amd64.deb
+Files:
+ 67eb036d042db0ced814ccb7bd9fcdf3 5385 mail optional zimbra-common-mbox-conf-rights_9.0.0.1487328490-1.u18_amd64.buildinfo
+ b8c2b86b74fd0c4be6079c7b6f9fc6b2 20292 mail optional zimbra-common-mbox-conf-rights_9.0.0.1487328490-1.u18_amd64.deb

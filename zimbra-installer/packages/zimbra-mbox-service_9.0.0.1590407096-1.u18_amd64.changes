@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-service
+Binary: zimbra-mbox-service
+Architecture: amd64
+Version: 9.0.0.1590407096-1.u18
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-service - Zimbra Mailbox Service
+Changes:
+ zimbra-mbox-service (9.0.0.1590407096-1.u18) stable; urgency=medium
+ .
+   * Release - 9.0.0.1590407096
+Checksums-Sha1:
+ db9a06b68d75d3bb0065e4a595c52603ee74aac8 5327 zimbra-mbox-service_9.0.0.1590407096-1.u18_amd64.buildinfo
+ a62dfe27b6600ea6e59ff5987dd1ee3619145577 1248 zimbra-mbox-service_9.0.0.1590407096-1.u18_amd64.deb
+Checksums-Sha256:
+ da4c39d77c0087194ea14196d04e2bcc23ba0b55e9d7d961f108544f648479be 5327 zimbra-mbox-service_9.0.0.1590407096-1.u18_amd64.buildinfo
+ 5cef9269ca684d4cd77ea8921c02ea96f4ab989c632e939004dde80dd34cdc13 1248 zimbra-mbox-service_9.0.0.1590407096-1.u18_amd64.deb
+Files:
+ ed76855c924424171c75fe60d1f76302 5327 mail optional zimbra-mbox-service_9.0.0.1590407096-1.u18_amd64.buildinfo
+ 8e827ed5f73bbab92b4a48342b2bbbb3 1248 mail optional zimbra-mbox-service_9.0.0.1590407096-1.u18_amd64.deb

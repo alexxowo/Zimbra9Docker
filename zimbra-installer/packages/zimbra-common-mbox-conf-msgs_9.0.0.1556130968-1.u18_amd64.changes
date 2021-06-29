@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-conf-msgs
+Binary: zimbra-common-mbox-conf-msgs
+Architecture: amd64
+Version: 9.0.0.1556130968-1.u18
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-conf-msgs - Zimbra Core Mailbox Message Locale Files
+Changes:
+ zimbra-common-mbox-conf-msgs (9.0.0.1556130968-1.u18) stable; urgency=medium
+ .
+   * Release - 9.0.0.1556130968
+Checksums-Sha1:
+ cec906beb9db05c33b4d6b64e6d72822937ebf86 5378 zimbra-common-mbox-conf-msgs_9.0.0.1556130968-1.u18_amd64.buildinfo
+ 2a8d2ce2bbea116055de75804294ba816a525634 514552 zimbra-common-mbox-conf-msgs_9.0.0.1556130968-1.u18_amd64.deb
+Checksums-Sha256:
+ 80f203332b1989373ff9fba3b4fbe5b735c2647d0cdf923189eb2d9a4b12db72 5378 zimbra-common-mbox-conf-msgs_9.0.0.1556130968-1.u18_amd64.buildinfo
+ 0ca1fbdd7c7e0aab4ec9333ffd12154de32dfe639e42e38e76a9928c254ab2cd 514552 zimbra-common-mbox-conf-msgs_9.0.0.1556130968-1.u18_amd64.deb
+Files:
+ 9cba60d3debb2e9119080e959a1d998e 5378 mail optional zimbra-common-mbox-conf-msgs_9.0.0.1556130968-1.u18_amd64.buildinfo
+ ab060344be853fbdedc0ea7d800a11da 514552 mail optional zimbra-common-mbox-conf-msgs_9.0.0.1556130968-1.u18_amd64.deb

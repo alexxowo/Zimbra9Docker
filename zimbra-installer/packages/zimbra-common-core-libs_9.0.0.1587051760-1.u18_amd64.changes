@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-core-libs
+Binary: zimbra-common-core-libs
+Architecture: amd64
+Version: 9.0.0.1587051760-1.u18
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-core-libs - Replace zimbra core libs
+Changes:
+ zimbra-common-core-libs (9.0.0.1587051760-1.u18) stable; urgency=medium
+ .
+   * Release - 9.0.0.1587051760
+Checksums-Sha1:
+ 35a9af241bd20366c963117cf0997bfd23f35a38 5359 zimbra-common-core-libs_9.0.0.1587051760-1.u18_amd64.buildinfo
+ 9eeea08d6ab4bca43c1e64befa54fcdf90afebd8 66349332 zimbra-common-core-libs_9.0.0.1587051760-1.u18_amd64.deb
+Checksums-Sha256:
+ e5b835c66170c136cb36eee4251e9d23d629ac6dcb5ee44145ab44b05f37f96c 5359 zimbra-common-core-libs_9.0.0.1587051760-1.u18_amd64.buildinfo
+ 25ce5e76c89e558db6f37d273d1231cc252bea40849fd98cdff00c3270e83324 66349332 zimbra-common-core-libs_9.0.0.1587051760-1.u18_amd64.deb
+Files:
+ e679f936789da5fac1ebf82599eeb935 5359 mail optional zimbra-common-core-libs_9.0.0.1587051760-1.u18_amd64.buildinfo
+ 446adc258e4220dbc00623b92068ad59 66349332 mail optional zimbra-common-core-libs_9.0.0.1587051760-1.u18_amd64.deb
