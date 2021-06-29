@@ -1,7 +1,7 @@
 # ZIMBRA 9 WITH DOCKER
 ## BUILDING
 build the dockerfile with
-docker build --tag zimbra9docker .
+```docker build --tag zimbra9docker .```
 
 ## USING
 You can run the image with the follow command
